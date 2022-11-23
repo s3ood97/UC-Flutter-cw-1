@@ -5,7 +5,6 @@ void main(){
   print("First Name : ${num1.toUpperCase()}");
   print("Last Name : ${num2.toLowerCase()}");
   print("i'm $age ,my hobby is programming");
-  print("i'm $age ,my hobby is programming");
 
 }
 
